@@ -8,3 +8,9 @@
 4.Binding for log4j version 1.2, a widely used logging framework. You also need to place log4j.jar on your class path.
 
 5.Binding for java.util.logging, also referred to as JDK 1.4 logging
+
+# 特点
+兼容Commons Logging、lo4j、java.util.logging，只需添加相应依赖jar即可
+
+# 使用方法
+参考test包下LogTest
